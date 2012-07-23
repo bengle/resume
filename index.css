@@ -1,0 +1,52 @@
+
+.skill{
+	width:400px;
+	float:left;
+	margin:20px;
+}
+.skill > .skill-title{
+	width:350px;
+	height:25px;
+	background:url('./bg.jpg') repeat-x;
+	padding-left:50px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+.skill > .skill-title > .title-word{
+	height:25px;
+	line-height:25px;
+	color:#fff;
+	font-size:16px;
+	font-family:"Microsoft YaHei";
+}
+.personal-info{
+	background:url('') no-repeat center left;
+}
+.personal-study{
+	background:url('') no-repeat center left;
+}
+.personal-work{
+	background:url('') no-repeat center left;
+}
+.personal-skill{
+	background:url('') no-repeat center left;
+}
+.personal-hobit{
+	background:url('') no-repeat center left;
+}
+.personal-pic{
+	background:url('') no-repeat center left;
+}
+.skill > .skill-body{
+	width:318px;
+	padding:40px;
+	border-left:1px solid #666;
+	border-right:1px solid #666;
+	border-bottom:1px solid #666;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.main{
+	margin-top:50px;
+	width:990px;
+}
