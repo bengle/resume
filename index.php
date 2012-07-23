@@ -16,6 +16,11 @@
     </div>
 <div id="container" class="container main">
 	<div class="skill">
+		<div class="skill-body" style="border-top:1px solid #666;border-radius:10px;">
+			<p class="person-pic"></p>
+		</div>
+	</div>
+	<div class="skill">
 		<div class="skill-title"><p class="title-word">个人资料</p></div>
 		<div class="skill-body">
 			<p>徐捷</p>
@@ -27,7 +32,7 @@
 		</div>
 	</div>
 	<div class="skill">
-		<div class="skill-title">学历及工作经验</div>
+		<div class="skill-title"><p class="title-word">学历及工作经验</p></div>
 		<div class="skill-body">
 			<p>本科：2003年至2007年在西南交通大学就读网络工程专业</p>
 			<p>研究生：2008年至2011年在电子科技大学就读软件工程硕士</p>
@@ -36,7 +41,7 @@
 		</div>
 	</div>
 	<div class="skill">
-		<div class="skill-title">掌握技能</div>
+		<div class="skill-title"><p class="title-word">掌握技能</p></div>
 		<div class="skill-body">
 			<p>Web前端技术，包括(X)HTML、CSS、Javascript</p>
 			<p>jQuery、bootstrap等常用库</p>
@@ -45,7 +50,7 @@
 		</div>
 	</div>
 	<div class="skill">
-		<div class="skill-title">工作经验</div>
+		<div class="skill-title"><p class="title-word">工作经验</p></div>
 		<div class="skill-body">
 			<p>2011年11月至1月参与完成了<a taraget="_blank" title="淘宝vip" href="http://vip.taobao.com">淘宝会员平台</a>的前端工作</p>
 			<p>2011年3月至6月参与并完成了<a target="_blank" title="淘宝软件市场" href="http://app.taobao.com">淘宝软件市场</a>的前端工作</p>
@@ -53,7 +58,7 @@
 		</div>
 	</div>
 	<div class="skill">
-		<div class="skill-title">兴趣爱好</div>
+		<div class="skill-title"><p class="title-word">兴趣爱好</p></div>
 		<div class="skill-body">
 			<p>技术宅男，平时喜欢在家上网，上微博</p>
 			<p>热血青年，酷爱足球，最近迷上了摄影</p>
